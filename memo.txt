@@ -2,3 +2,7 @@
 
 병합 작업 완료
 
+terminal을 통해 pip install streamlit pandas requests beautifulsoup4 plotly 설치하세요.
+
+
+코드 실행 후 terminal에 streamlit run Code_streamlit.py 입력하여 실행하세요.
